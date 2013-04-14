@@ -1,0 +1,28 @@
+{
+  "name": "coffee-boots",
+  "version": "0.0.0",
+  "description": "Coffee-boots: watch and compile CoffeeScript code",
+  "main": "lib/",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "convert-boots": "~0.0.0",
+    "rain-boots": "~0.0.0",
+    "coffee-script": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jiyinyiyong/coffee-boots.git"
+  },
+  "keywords": [
+    "rain-boots"
+  ],
+  "author": "jiyinyiyong",
+  "license": "BSD",
+  "readmeFilename": "readme.md"
+}
